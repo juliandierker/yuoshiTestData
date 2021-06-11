@@ -222,7 +222,6 @@ VALUES('RuICeRTh72', 'test-student71', '$2a$08$ajIvgEjd17MiiDcFr6msc.xldknH/tTGa
 REPLACE INTO `auth_user_md5` 
 (`user_id`, `username`, `password`, `perms`, `Vorname`, `Nachname`, `Email`, `validation_key`, `auth_plugin`, `locked`, `lock_comment`, `locked_by`, `visible`) 
 VALUES('RuICeRTh73', 'test-student72', '$2a$08$ajIvgEjd17MiiDcFr6msc.xldknH/tTGajUXVhDxDKNJVX0H0iv0i', 'autor', 'Testaccount', 'Autor', 'student70@studip.de', '', 'standard', 0, NULL, NULL, 'unknown');
-REPLACE INTO `auth_user_md5` 
 
 --
 -- Testdata für seminare `seminar_user`
